@@ -1,0 +1,16 @@
+.menu {
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(64, 23, 160);  
+}
+.menu p{
+    background-color: rgb(143, 228, 240);
+    width: 120px;
+}
+.menu a:hover {
+    color: rgb(161, 14, 58);  
+}
+.menu a:visited {
+    color: rgb(63, 205, 50)
+}

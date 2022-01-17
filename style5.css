@@ -1,0 +1,32 @@
+.formulario {
+    
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 20px;
+
+    
+}
+.container-button {
+    text-align: center;
+    padding: 20px;
+}
+.send-button {
+    background-color: rgb(86, 86, 190);
+    font-size: 16px;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    width:80px;
+    height:30px;
+}
+.send-button:hover {
+    cursor: pointer;
+    background-color: rgb(132, 216, 241);
+}
+label {
+    font-weight: bold;
+    width: 120px;
+    display: inline-block;
+    float: left; 
+}
